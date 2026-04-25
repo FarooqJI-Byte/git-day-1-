@@ -1,1 +1,27 @@
-what is java
+1.what is java?
+java is a high level object oriented programming language developed bby sun microsystems later occupied by oracle.
+2.Why is Java platform independent?
+Answer:
+Java is platform independent because Java code is compiled into bytecode, which runs on the Java Virtual Machine (JVM). The JVM converts bytecode into machine code specific to the operating system.
+3. What is JVM?
+Answer:
+JVM (Java Virtual Machine) is an engine that runs Java bytecode.
+It provides:
+
+Memory management
+Security
+Platform independence
+4. Difference between JDK, JRE, and JVM?
+Answer:
+
+JDK: Java Development Kit (used for development)
+JRE: Java Runtime Environment (used to run Java programs)
+JVM: Executes bytecode6. What is Object-Oriented Programming?
+Answer:
+OOP is a programming approach based on objects and classes, focusing on:
+
+Encapsulation
+Inheritance
+Polymorphism
+Abstraction
+
